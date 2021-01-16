@@ -1,0 +1,2 @@
+new msges in file.txt
+i adedd new msgs
